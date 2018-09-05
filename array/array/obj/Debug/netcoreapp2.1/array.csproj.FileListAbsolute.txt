@@ -1,0 +1,11 @@
+c:\users\adriana.corona\source\repos\array\array\obj\Debug\netcoreapp2.1\array.csprojAssemblyReference.cache
+c:\users\adriana.corona\source\repos\array\array\obj\Debug\netcoreapp2.1\array.csproj.CoreCompileInputs.cache
+c:\users\adriana.corona\source\repos\array\array\obj\Debug\netcoreapp2.1\array.AssemblyInfoInputs.cache
+c:\users\adriana.corona\source\repos\array\array\obj\Debug\netcoreapp2.1\array.AssemblyInfo.cs
+c:\users\adriana.corona\source\repos\array\array\bin\Debug\netcoreapp2.1\array.deps.json
+c:\users\adriana.corona\source\repos\array\array\bin\Debug\netcoreapp2.1\array.runtimeconfig.json
+c:\users\adriana.corona\source\repos\array\array\bin\Debug\netcoreapp2.1\array.runtimeconfig.dev.json
+c:\users\adriana.corona\source\repos\array\array\bin\Debug\netcoreapp2.1\array.dll
+c:\users\adriana.corona\source\repos\array\array\bin\Debug\netcoreapp2.1\array.pdb
+c:\users\adriana.corona\source\repos\array\array\obj\Debug\netcoreapp2.1\array.dll
+c:\users\adriana.corona\source\repos\array\array\obj\Debug\netcoreapp2.1\array.pdb

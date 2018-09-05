@@ -1,0 +1,11 @@
+c:\users\adriana.corona\source\repos\Delegate\Delegate\bin\Debug\netcoreapp2.1\Delegate.deps.json
+c:\users\adriana.corona\source\repos\Delegate\Delegate\bin\Debug\netcoreapp2.1\Delegate.runtimeconfig.json
+c:\users\adriana.corona\source\repos\Delegate\Delegate\bin\Debug\netcoreapp2.1\Delegate.runtimeconfig.dev.json
+c:\users\adriana.corona\source\repos\Delegate\Delegate\bin\Debug\netcoreapp2.1\Delegate.dll
+c:\users\adriana.corona\source\repos\Delegate\Delegate\bin\Debug\netcoreapp2.1\Delegate.pdb
+c:\users\adriana.corona\source\repos\Delegate\Delegate\obj\Debug\netcoreapp2.1\Delegate.csprojAssemblyReference.cache
+c:\users\adriana.corona\source\repos\Delegate\Delegate\obj\Debug\netcoreapp2.1\Delegate.csproj.CoreCompileInputs.cache
+c:\users\adriana.corona\source\repos\Delegate\Delegate\obj\Debug\netcoreapp2.1\Delegate.AssemblyInfoInputs.cache
+c:\users\adriana.corona\source\repos\Delegate\Delegate\obj\Debug\netcoreapp2.1\Delegate.AssemblyInfo.cs
+c:\users\adriana.corona\source\repos\Delegate\Delegate\obj\Debug\netcoreapp2.1\Delegate.dll
+c:\users\adriana.corona\source\repos\Delegate\Delegate\obj\Debug\netcoreapp2.1\Delegate.pdb

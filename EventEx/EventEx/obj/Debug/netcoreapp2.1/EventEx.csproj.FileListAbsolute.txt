@@ -1,0 +1,11 @@
+c:\users\adriana.corona\source\repos\EventEx\EventEx\obj\Debug\netcoreapp2.1\EventEx.csprojAssemblyReference.cache
+c:\users\adriana.corona\source\repos\EventEx\EventEx\obj\Debug\netcoreapp2.1\EventEx.csproj.CoreCompileInputs.cache
+c:\users\adriana.corona\source\repos\EventEx\EventEx\obj\Debug\netcoreapp2.1\EventEx.AssemblyInfoInputs.cache
+c:\users\adriana.corona\source\repos\EventEx\EventEx\obj\Debug\netcoreapp2.1\EventEx.AssemblyInfo.cs
+c:\users\adriana.corona\source\repos\EventEx\EventEx\bin\Debug\netcoreapp2.1\EventEx.deps.json
+c:\users\adriana.corona\source\repos\EventEx\EventEx\bin\Debug\netcoreapp2.1\EventEx.runtimeconfig.json
+c:\users\adriana.corona\source\repos\EventEx\EventEx\bin\Debug\netcoreapp2.1\EventEx.runtimeconfig.dev.json
+c:\users\adriana.corona\source\repos\EventEx\EventEx\bin\Debug\netcoreapp2.1\EventEx.dll
+c:\users\adriana.corona\source\repos\EventEx\EventEx\bin\Debug\netcoreapp2.1\EventEx.pdb
+c:\users\adriana.corona\source\repos\EventEx\EventEx\obj\Debug\netcoreapp2.1\EventEx.dll
+c:\users\adriana.corona\source\repos\EventEx\EventEx\obj\Debug\netcoreapp2.1\EventEx.pdb

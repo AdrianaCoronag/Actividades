@@ -1,0 +1,10 @@
+c:\users\adriana.corona\source\repos\Multi\Multi\bin\Debug\netcoreapp2.1\Multi.deps.json
+c:\users\adriana.corona\source\repos\Multi\Multi\bin\Debug\netcoreapp2.1\Multi.runtimeconfig.json
+c:\users\adriana.corona\source\repos\Multi\Multi\bin\Debug\netcoreapp2.1\Multi.runtimeconfig.dev.json
+c:\users\adriana.corona\source\repos\Multi\Multi\bin\Debug\netcoreapp2.1\Multi.dll
+c:\users\adriana.corona\source\repos\Multi\Multi\bin\Debug\netcoreapp2.1\Multi.pdb
+c:\users\adriana.corona\source\repos\Multi\Multi\obj\Debug\netcoreapp2.1\Multi.csproj.CoreCompileInputs.cache
+c:\users\adriana.corona\source\repos\Multi\Multi\obj\Debug\netcoreapp2.1\Multi.AssemblyInfoInputs.cache
+c:\users\adriana.corona\source\repos\Multi\Multi\obj\Debug\netcoreapp2.1\Multi.AssemblyInfo.cs
+c:\users\adriana.corona\source\repos\Multi\Multi\obj\Debug\netcoreapp2.1\Multi.dll
+c:\users\adriana.corona\source\repos\Multi\Multi\obj\Debug\netcoreapp2.1\Multi.pdb

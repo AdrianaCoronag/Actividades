@@ -1,0 +1,10 @@
+c:\users\adriana.corona\source\repos\Simple\Simple\bin\Debug\netcoreapp2.1\Simple.deps.json
+c:\users\adriana.corona\source\repos\Simple\Simple\bin\Debug\netcoreapp2.1\Simple.runtimeconfig.json
+c:\users\adriana.corona\source\repos\Simple\Simple\bin\Debug\netcoreapp2.1\Simple.runtimeconfig.dev.json
+c:\users\adriana.corona\source\repos\Simple\Simple\bin\Debug\netcoreapp2.1\Simple.dll
+c:\users\adriana.corona\source\repos\Simple\Simple\bin\Debug\netcoreapp2.1\Simple.pdb
+c:\users\adriana.corona\source\repos\Simple\Simple\obj\Debug\netcoreapp2.1\Simple.csproj.CoreCompileInputs.cache
+c:\users\adriana.corona\source\repos\Simple\Simple\obj\Debug\netcoreapp2.1\Simple.AssemblyInfoInputs.cache
+c:\users\adriana.corona\source\repos\Simple\Simple\obj\Debug\netcoreapp2.1\Simple.AssemblyInfo.cs
+c:\users\adriana.corona\source\repos\Simple\Simple\obj\Debug\netcoreapp2.1\Simple.dll
+c:\users\adriana.corona\source\repos\Simple\Simple\obj\Debug\netcoreapp2.1\Simple.pdb

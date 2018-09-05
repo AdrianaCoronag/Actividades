@@ -1,0 +1,10 @@
+c:\users\adriana.corona\source\repos\Event\Event\bin\Debug\netcoreapp2.1\Event.deps.json
+c:\users\adriana.corona\source\repos\Event\Event\bin\Debug\netcoreapp2.1\Event.runtimeconfig.json
+c:\users\adriana.corona\source\repos\Event\Event\bin\Debug\netcoreapp2.1\Event.runtimeconfig.dev.json
+c:\users\adriana.corona\source\repos\Event\Event\bin\Debug\netcoreapp2.1\Event.dll
+c:\users\adriana.corona\source\repos\Event\Event\bin\Debug\netcoreapp2.1\Event.pdb
+c:\users\adriana.corona\source\repos\Event\Event\obj\Debug\netcoreapp2.1\Event.csproj.CoreCompileInputs.cache
+c:\users\adriana.corona\source\repos\Event\Event\obj\Debug\netcoreapp2.1\Event.AssemblyInfoInputs.cache
+c:\users\adriana.corona\source\repos\Event\Event\obj\Debug\netcoreapp2.1\Event.AssemblyInfo.cs
+c:\users\adriana.corona\source\repos\Event\Event\obj\Debug\netcoreapp2.1\Event.dll
+c:\users\adriana.corona\source\repos\Event\Event\obj\Debug\netcoreapp2.1\Event.pdb
